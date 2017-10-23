@@ -4,7 +4,7 @@ Add HTTPS into Gladys
 
 **Installation :**
 
-Push file : enable-ssl-gladys.sh in /hompe/pi
+Push file : enable-ssl-gladys.sh in /home/pi
 
 Push file : gladys-ssl in /etc/nginx/sites-available/
 
